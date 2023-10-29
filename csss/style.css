@@ -1,0 +1,13 @@
+*{
+    font-family: Arvo;
+}
+
+body{
+    min-height: 100vh !important;
+    background-color: black !important;
+}
+
+.pics{
+    width: 100vw;
+    height: 80vh;
+}
